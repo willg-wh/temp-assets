@@ -1,0 +1,36 @@
+<!--
+  Multiverse monogram — the shorthand "m". The brand's second primary mark.
+
+  Path data copied byte-for-byte from source/Shorthand_Left_Aligned_Black.svg,
+  which is the brand team's own file for the standalone mark. The only change is the
+  viewBox: her 373x313 art-board is cropped to the glyph's own bounding box
+  (93.21 93.20 186.41 126.52, measured with getBBox, not estimated) so a declared
+  height sizes the letterform itself rather than the surrounding clear space.
+
+  Verified 6 Aug 2026 against the real Logo suite. Glyph aspect 1.473364. The
+  Left_Aligned and When_In_Square files are the SAME drawing at different scales
+  (width and height scale factors both 1.11325), so the square lock-up's numbers
+  and this file's numbers describe one glyph.
+
+  Her Black and White cuts are the identical path — byte-identical `d`, differing
+  only in fill. That is why one currentColor file replaces both cuts with no loss:
+  black on light, white on dark, never in colour (brand rule 09), and nothing to
+  keep in sync.
+
+  DO NOT CONFUSE THIS WITH THE HEXAGON. Nova previously carried a hexagon-with-m
+  (assets/multiverse_hexagon.svg, assets/welcome-logomark.svg) and called it the
+  logomark. The real Logo suite contains exactly two marks, the Wordmark and the
+  Shorthand. There is no hexagon in it. The hexagon is legacy artwork and survives
+  only as a decorative chat glyph; it must not stand in for the monogram.
+
+  MINIMUM HEIGHT 20px, and the floor is on HEIGHT, not width. The brand monogram
+  guideline states "min height 20px" and demonstrates it by setting height:20px on
+  the mark itself, including inside a square tile. See the square lock-up file for
+  what that implies for square sizing.
+-->
+<svg viewBox="93.21 93.20 186.41 126.52" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Multiverse">
+  <path
+    d="M279.6,93.2h-29.01l-51.31,84.04v-84.04h-29.37l-51.13,83.5v-83.5h-25.57v126.52h25.75l54.76-90.01v90.01h25.75l54.58-89.1v89.1h25.57v-126.52Z"
+    fill="currentColor"
+  />
+</svg>
