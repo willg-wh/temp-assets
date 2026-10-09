@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 61.38 702.62 168.63"
+  width="200"
+  height="48"
+  color="black"
+  role="img"
+  aria-labelledby="wordmark-title wordmark-description"
+>
+  <title id="wordmark-title">Multiverse transforms into Omni</title>
+  <desc id="wordmark-description">
+    The Multiverse wordmark rearranges and transforms into Omni, then reverses
+    into Multiverse.
+  </desc>
+
+  <g transform="translate(-120.28 0)" fill="currentColor">
+    <!-- M slides right to become Omni's M. -->
+    <g>
+      <path d="M240.66,120.25h-18.74l-33.14,54.28v-54.28h-18.97l-33.02,53.93v-53.93h-16.51v81.71h16.63l35.37-58.13v58.13h16.63l35.25-57.55v57.55h16.51v-81.71Z"/>
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0 0;0 0;277.7 0;277.7 0;0 0;0 0"
+        keyTimes="0;0.2;0.38;0.62;0.8;1"
+        keySplines="0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1"
+        calcMode="spline"
+        dur="6.4s"
+        repeatCount="indefinite"
+      />
+    </g>
+
+    <!-- U moves into place and turns upside down to form N. -->
+    <g>
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0 0;0 0;277.7 0;277.7 0;0 0;0 0"
+        keyTimes="0;0.2;0.38;0.62;0.8;1"
+        keySplines="0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1"
+        calcMode="spline"
+        dur="6.4s"
+        repeatCount="indefinite"
+      />
+      <g>
+        <path d="M310.1,166.24c0,13.42-8.08,21.59-19.21,21.59s-19.09-8.17-19.09-21.59v-45.99h-16.51v45.64c0,22.99,13,37.94,35.25,37.94s36.07-15.29,36.07-37.94v-45.64h-16.51v45.99Z"/>
+        <animateTransform
+          attributeName="transform"
+          type="rotate"
+          values="0 290.95 161.1;0 290.95 161.1;180 290.95 161.1;180 290.95 161.1;0 290.95 161.1;0 290.95 161.1"
+          keyTimes="0;0.2;0.38;0.62;0.8;1"
+          keySplines="0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1"
+          calcMode="spline"
+          dur="6.4s"
+          repeatCount="indefinite"
+        />
+      </g>
+    </g>
+
+    <!-- I and its dot move together. -->
+    <g>
+      <path d="M453.09,120.25h-16.51v81.71h16.51v-81.71Z"/>
+      <circle cx="444.77" cy="98.25" r="10.74"/>
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0 0;0 0;183.2 0;183.2 0;0 0;0 0"
+        keyTimes="0;0.2;0.38;0.62;0.8;1"
+        keySplines="0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1"
+        calcMode="spline"
+        dur="6.4s"
+        repeatCount="indefinite"
+      />
+    </g>
+
+    <!-- Letters that make room for the shorter wordmark. -->
+    <g>
+      <path d="M359.99,97.14h-16.51v104.82h16.51v-104.82Z"/>
+      <path d="M405.66,97.14h-16.51v23.11h-21.31v14.59h21.31v67.12h16.51v-67.12h21.08v-14.59h-21.08v-23.11Z"/>
+      <path d="M521.24,120.25l-20.85,60.7-21.08-60.7h-17.92l30.45,81.71h16.98l30.45-81.71h-18.03Z"/>
+      <path d="M671.84,120.25h-45.2v81.71h16.51v-67.12h28.69v-14.59Z"/>
+      <path d="M713.64,153.17l-9.95-2.1c-6.09-1.4-9.13-4.32-9.13-8.99,0-5.6,5.5-9.22,11.83-9.22,8.9,0,13.47,5.72,14.4,11.67h17.1c-2.93-18.91-16.63-26.15-31.5-26.15-18.03,0-29.28,12.26-29.28,25.45,0,12.49,9.02,18.91,21.08,21.83l9.49,2.22c9.49,2.22,13.7,4.55,13.7,10.39,0,5.49-4.22,11.09-12.3,11.09-9.84,0-14.05-5.72-14.76-12.84h-17.57c.35,15.64,12.53,27.31,31.62,27.31s30.09-13.07,30.09-26.5c.12-11.56-9.02-20.66-24.83-24.16Z"/>
+      <path d="M744.21,161.22c0,24.98,17.92,42.6,40.52,42.6,20.49,0,33.61-10.62,37.36-27.55h-17.57c-1.29,6.19-6.79,12.14-18.62,12.14-12.76,0-22.95-7.35-24.24-21.01h60.89c.23-1.87.35-4.32.35-6.19,0-24.4-14.87-42.84-38.53-42.84s-40.17,18.44-40.17,42.84ZM761.3,154.69c2.23-12.72,10.54-20.89,23.07-20.89s20.26,7.94,22.02,20.89h-45.09Z"/>
+      <animate
+        attributeName="opacity"
+        values="1;1;0;0;1;1"
+        keyTimes="0;0.2;0.38;0.62;0.8;1"
+        keySplines="0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1"
+        calcMode="spline"
+        dur="6.4s"
+        repeatCount="indefinite"
+      />
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0 0;0 0;24 0;24 0;0 0;0 0"
+        keyTimes="0;0.2;0.38;0.62;0.8;1"
+        keySplines="0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1"
+        calcMode="spline"
+        dur="6.4s"
+        repeatCount="indefinite"
+      />
+    </g>
+
+    <!-- Multiverse E spins inward before resolving into the O. -->
+    <g>
+      <g>
+        <path d="M538.81,161.22c0,24.98,17.92,42.6,40.52,42.6,20.49,0,33.61-10.62,37.36-27.55h-17.57c-1.29,6.19-6.79,12.14-18.62,12.14-12.76,0-22.95-7.35-24.24-21.01h60.89c.23-1.87.35-4.32.35-6.19,0-24.4-14.87-42.84-38.53-42.84s-40.17,18.44-40.17,42.84ZM555.91,154.69c2.22-12.72,10.54-20.89,23.07-20.89s20.26,7.94,22.02,20.89h-45.08Z"/>
+        <animate
+          attributeName="opacity"
+          values="1;1;0;0;1;1"
+          keyTimes="0;0.2;0.38;0.62;0.8;1"
+          keySplines="0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1"
+          calcMode="spline"
+          dur="6.4s"
+          repeatCount="indefinite"
+        />
+        <animateTransform
+          attributeName="transform"
+          type="rotate"
+          values="0 578 161;0 578 161;360 578 161;360 578 161;0 578 161;0 578 161"
+          keyTimes="0;0.2;0.38;0.62;0.8;1"
+          keySplines="0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1"
+          calcMode="spline"
+          dur="6.4s"
+          repeatCount="indefinite"
+        />
+      </g>
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0 0;0 0;-234.5 0;-234.5 0;0 0;0 0"
+        keyTimes="0;0.2;0.38;0.62;0.8;1"
+        keySplines="0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1"
+        calcMode="spline"
+        dur="6.4s"
+        repeatCount="indefinite"
+      />
+    </g>
+  </g>
+
+  <!-- O appears at the end of the spinning E's trajectory. -->
+  <g transform="translate(183.7 0)" fill="currentColor" opacity="0">
+    <path
+      fill-rule="evenodd"
+      d="M0,161.1C0,186.13 17.84,203.82 40.35,203.82C62.86,203.82 80.7,186.13 80.7,161.1C80.7,136.07 62.86,118.38 40.35,118.38C17.84,118.38 0,136.07 0,161.1ZM16.51,161.1C16.51,177.1 27.05,188.4 40.35,188.4C53.65,188.4 64.19,177.1 64.19,161.1C64.19,145.1 53.65,133.8 40.35,133.8C27.05,133.8 16.51,145.1 16.51,161.1Z"
+    />
+    <animate
+      attributeName="opacity"
+      values="0;0;1;1;0;0"
+      keyTimes="0;0.2;0.38;0.62;0.8;1"
+      keySplines="0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1"
+      calcMode="spline"
+      dur="6.4s"
+      repeatCount="indefinite"
+    />
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      values="-180 40.35 161.1;-180 40.35 161.1;0 40.35 161.1;0 40.35 161.1;-180 40.35 161.1;-180 40.35 161.1"
+      keyTimes="0;0.2;0.38;0.62;0.8;1"
+      keySplines="0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1;0.65 0 0.35 1"
+      calcMode="spline"
+      additive="sum"
+      dur="6.4s"
+      repeatCount="indefinite"
+    />
+  </g>
+</svg>
